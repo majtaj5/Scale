@@ -1,0 +1,15 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"Piotr Król",
+	"description":	{
+		"":	""
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"id":	"d8f7039f-27fa-4c5d-ab38-a6907a3fb925",
+	"version":	"",
+	"runOnStartup":	false,
+	"sourcewindows":	"Scale.vcxproj",
+	"sourcemac":	"Scale.xcodeproj"
+}
